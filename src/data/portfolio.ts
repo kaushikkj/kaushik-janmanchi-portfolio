@@ -7,7 +7,7 @@ export const portfolio = {
   location: "Hyderabad, India",
   profileImage: "1759996201135.jpg",
   links: {
-    resume: "/resume.pdf",
+    resume: "resume.pdf",
     email: "mailto:kaushik.janmanchi@gmail.com",
     linkedin: "https://www.linkedin.com/in/kaushik-janmanchi-2978b3157/",
     github: "https://github.com/kaushikkj",
