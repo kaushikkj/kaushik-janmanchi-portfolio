@@ -131,7 +131,7 @@ export default function Home() {
         >
           <div className="hero-photo-card">
             <div className="photo-placeholder">
-              <img src={portfolio.profileImage} alt="Kaushik Janmanchi" />
+              <img src={`/kaushik-janmanchi-portfolio/${portfolio.profileImage}`}
             </div>
             <div className="photo-caption">
               <span>SOFTWARE · CLOUD · SRE</span>
