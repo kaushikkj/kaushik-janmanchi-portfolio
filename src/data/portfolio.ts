@@ -5,7 +5,7 @@ export const portfolio = {
     "Results-driven Software & Reliability Engineer with 5.5+ years of experience designing, operating, and automating cloud infrastructure, enterprise data pipelines, and observability platforms across multi-cloud environments.",
   email: "kaushik.janmanchi@gmail.com",
   location: "Hyderabad, India",
-  profileImage: "/1759996201135.jpg",
+  profileImage: "1759996201135.jpg",
   links: {
     resume: "/resume.pdf",
     email: "mailto:kaushik.janmanchi@gmail.com",
